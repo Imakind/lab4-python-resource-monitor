@@ -1,0 +1,97 @@
+{
+  "collected_at": "REDACTED",
+  "system": {
+    "hostname": "REDACTED",
+    "os": "Windows",
+    "os_version": "10.0.26200",
+    "architecture": "AMD64",
+    "boot_time": "REDACTED"
+  },
+  "cpu": {
+    "model": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+    "physical_cores": 6,
+    "logical_cores": 12,
+    "max_freq_mhz": 2688,
+    "load_percent": 9.9
+  },
+  "memory": {
+    "total_gb": 15.7,
+    "used_percent": 84.6,
+    "available_gb": 2.4
+  },
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fs": "NTFS",
+      "total_gb": 475.9,
+      "used_percent": 81.6
+    }
+  ],
+  "network": [
+    {
+      "name": "interface_01",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_02",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_03",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_04",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_05",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_06",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_07",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_08",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_09",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": "REDACTED"
+    },
+    {
+      "name": "interface_10",
+      "ipv4": "REDACTED",
+      "netmask": "REDACTED",
+      "mac": null
+    }
+  ],
+  "recommendations": [
+    "RAM занята на 80% или больше: закройте ненужные приложения"
+  ],
+  "publication_note": "Обезличенная копия реального паспорта. Имена интерфейсов заменены; адреса, имя компьютера и время удалены. Численные характеристики не изменены."
+}

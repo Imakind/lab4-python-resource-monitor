@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+/passport_*.json
+/monitor_*.csv
+/monitor_*.summary.json
+/evidence/
+*.docx
+*.pdf
+*.zip

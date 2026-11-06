@@ -1,0 +1,42 @@
+{
+  "variant": 1,
+  "interval": 1,
+  "samples": 30,
+  "thresholds": {
+    "cpu": 70,
+    "ram": 80,
+    "disk": 85
+  },
+  "extra_metric": "processes",
+  "statistics": {
+    "cpu": {
+      "mean": 16.263,
+      "max": 28.4,
+      "min": 9.9
+    },
+    "ram": {
+      "mean": 87.68,
+      "max": 87.9,
+      "min": 87.4
+    },
+    "disk": {
+      "mean": 81.6,
+      "max": 81.6,
+      "min": 81.6
+    },
+    "processes": {
+      "mean": 358.1,
+      "max": 360,
+      "min": 357
+    }
+  },
+  "first_alert": {
+    "cpu": 28.4,
+    "ram": 87.9,
+    "disk": 81.6,
+    "processes": 360,
+    "alert": "RAM = 87.9% (порог 80%)",
+    "sample": 1
+  },
+  "publication_note": "Абсолютные временные отметки удалены; значения измерений сохранены."
+}
